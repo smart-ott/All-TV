@@ -62,9 +62,6 @@ http://46.151.151.245:10001/play/a003/index.m3u8
 #EXTINF:0,НТС HD
 #EXTGRP:Эфирные
 http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
-#EXTINF:0,Соловьев LIVE
-#EXTGRP:Эфирные
-http://ott.inmart.tv:8081/19/index.m3u8
 #EXTINF:0,Спас
 #EXTGRP:Эфирные
 http://okkotv-live.cdnvideo.ru/channel/Spas/480p.m3u8
@@ -74,9 +71,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:0,Мир HD
 #EXTGRP:Эфирные
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:0,Крым 24 HD
-#EXTGRP:Эфирные
-http://live.1tvcrimea.ru:8080/switcher.m3u8
 #EXTINF:0,Че!
 #EXTGRP:Эфирные
 http://okkotv-live.cdnvideo.ru/channel/Che_OTT_2/480p.m3u8
@@ -188,9 +182,6 @@ http://81.177.136.209:8004/playlist.m3u8
 #EXTINF:0,TERRA
 #EXTGRP:Познавательные
 https://okkotv-live.cdnvideo.ru/channel/NGC_HD/1080p.m3u8
-#EXTINF:0,Animal Planet
-#EXTGRP:Познавательные
-http://45.159.74.14:80/AnimalPlanet/index.m3u8
 #EXTINF:0,Моя Планета HD
 #EXTGRP:Познавательные
 http://tv.ttk.mx:9087
@@ -221,18 +212,12 @@ http://tv.ttk.mx:9100
 #EXTINF:0,Карусель
 #EXTGRP:Детские
 http://tv.ttk.mx:9007
-#EXTINF:0,Tiji
-#EXTGRP:Детские
-http://live-1.otcnet.ru/TiJi_OT/index.m3u8
 #EXTINF:0,Солнце
 #EXTGRP:Детские
 http://okkotv-live.cdnvideo.ru/channel/Disney/480p.m3u8
 #EXTINF:0,Мультиландия
 #EXTGRP:Детские
 http://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
-#EXTINF:0,Gulli Girl
-#EXTGRP:Детские
-http://live-1.otcnet.ru/Gulli_OT/index.m3u8
 #EXTINF:0,СТС Kids HD
 #EXTGRP:Детские
 http://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD/1080p.m3u8
@@ -257,12 +242,6 @@ http://bl.uma.media/live/148307/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:0,KHL Prime
 #EXTGRP:Спорт
 http://bl.uma.media/live/171748/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0,Матч Боец
-#EXTGRP:Спорт
-https://federaltv-migra.cdnvideo.ru/mboec/playlist.m3u8
-#EXTINF:0,M1 Global
-#EXTGRP:Спорт
-http://94.230.240.17:80/m1global/index.m3u8
 #EXTINF:0,Матч Премьер HD
 #EXTGRP:Спорт
 https://bl.uma.media/live/126866/HLS/6866944_4/1/1/playlist.m3u8
