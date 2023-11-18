@@ -1,0 +1,301 @@
+#EXTM3U
+#EXTINF:0,Первый канал
+#EXTGRP:Эфирные
+http://tv.ttk.mx:9000
+#EXTINF:0,Первый канал HD
+#EXTGRP:Эфирные
+http://cdn-lb.iptv2022.com/p/dCeiU64_j2U7ItFsxyz9Qw,1679162008/streaming/1kanalott/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:0,Россия 1 
+#EXTGRP:Эфирные
+https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
+#EXTINF:0,Россия 1 HD
+#EXTGRP:Эфирные
+https://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8
+#EXTINF:0,НТВ
+#EXTGRP:Эфирные
+http://tv.ttk.mx:9003
+#EXTINF:0,Пятый канал 
+#EXTGRP:Эфирные
+https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
+#EXTINF:0,Россия 24
+#EXTGRP:Эфирные
+https://okkotv-live.cdnvideo.ru/channel/Russia24.m3u8
+#EXTINF:0,Домашний HD
+#EXTGRP:Эфирные
+https://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT/1080p.m3u8
+#EXTINF:0,Россия К
+#EXTGRP:Эфирные
+http://okkotv-live.cdnvideo.ru/channel/Russia_K_SD/480p.m3u8
+#EXTINF:0,ТВ Центр
+#EXTGRP:Эфирные
+http://tv.ttk.mx:9009
+#EXTINF:0,Пятница HD
+#EXTGRP:Эфирные
+https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD/1080p.m3u8
+#EXTINF:0,Рен ТВ HD
+#EXTGRP:Эфирные
+https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/1080p.m3u8
+#EXTINF:0,ТВ3 HD
+#EXTGRP:Эфирные
+https://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD/1080p.m3u8
+#EXTINF:0,ТНТ4
+#EXTGRP:Эфирные
+https://bl.uma.media/live/317849/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0,ТНТ HD
+#EXTGRP:Эфирные
+https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
+#EXTINF:0,СТС HD
+#EXTGRP:Эфирные
+https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
+#EXTINF:0,Дом Кино
+#EXTGRP:Эфирные
+http://tv.ttk.mx:9079
+#EXTINF:0,СТС Love
+#EXTGRP:Эфирные
+http://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2/480p.m3u8
+#EXTINF:0,Звезда HD
+#EXTGRP:Эфирные
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:0,Легендарный 24 HD
+#EXTGRP:Эфирные
+http://46.151.151.245:10001/play/a003/index.m3u8
+#EXTINF:0,НТС HD
+#EXTGRP:Эфирные
+http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
+#EXTINF:0,Соловьев LIVE
+#EXTGRP:Эфирные
+http://ott.inmart.tv:8081/19/index.m3u8
+#EXTINF:0,Спас
+#EXTGRP:Эфирные
+http://okkotv-live.cdnvideo.ru/channel/Spas/480p.m3u8
+#EXTINF:0,Мир 24 HD
+#EXTGRP:Эфирные
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:0,Мир HD
+#EXTGRP:Эфирные
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:0,Крым 24 HD
+#EXTGRP:Эфирные
+http://live.1tvcrimea.ru:8080/switcher.m3u8
+#EXTINF:0,Че!
+#EXTGRP:Эфирные
+http://okkotv-live.cdnvideo.ru/channel/Che_OTT_2/480p.m3u8
+#EXTINF:0,РБК HD
+#EXTGRP:Эфирные
+http://e6-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
+#EXTINF:0,РБК
+#EXTGRP:Эфирные
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:0,Известия HD
+#EXTGRP:Эфирные
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:0,Известия
+#EXTGRP:Эфирные
+http://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2/1080p.m3u8
+#EXTINF:0,Ю
+#EXTGRP:Эфирные
+http://okkotv-live.cdnvideo.ru/channel/Yu_OTT/480p.m3u8
+#EXTINF:0,VIP Megahit HD
+#EXTGRP:Кино и сериалы
+http://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/1080p.m3u8
+#EXTINF:0,VIP Premiere HD
+#EXTGRP:Кино и сериалы
+http://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD/1080p.m3u8
+#EXTINF:0,VIP Comedy HD
+#EXTGRP:Кино и сериалы
+http://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/1080p.m3u8
+#EXTINF:0,VIP Serial HD
+#EXTGRP:Кино и сериалы
+http://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/1080p.m3u8
+#EXTINF:0,TV1000 Action HD
+#EXTGRP:Кино и сериалы
+http://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD/1080p.m3u8
+#EXTINF:0,TV1000 HD
+#EXTGRP:Кино и сериалы
+http://okkotv-live.cdnvideo.ru/channel/TV1000_HD/1080p.m3u8
+#EXTINF:0,TV1000 Русское кино HD
+#EXTGRP:Кино и сериалы
+http://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/1080p.m3u8
+#EXTINF:0,Amedia Premium
+#EXTGRP:Кино и сериалы
+http://stream01.vnet.am/AmediaPremium/mono.m3u8
+#EXTINF:0,Победа
+#EXTGRP:Кино и сериалы
+http://tv.ttk.mx:9149
+#EXTINF:0,ДОМ Кино Премиум HD
+#EXTGRP:Кино и сериалы
+http://tv.ttk.mx:9084
+#EXTINF:0,КВН ТВ
+#EXTGRP:Кино и сериалы
+https://em.gazoni1.com:443/live/s.214456.dc04811640e10891c1fb5651791d6295c56/kvn-tv.ts
+#EXTINF:0,Русский бестселлер
+#EXTGRP:Кино и сериалы
+http://tv.ttk.mx:9043
+#EXTINF:0,Русский детектив
+#EXTGRP:Кино и сериалы
+http://tv.ttk.mx:9051
+#EXTINF:0,Русский роман HD
+#EXTGRP:Кино и сериалы
+http://tv.ttk.mx:9085
+#EXTINF:0,Русский иллюзион
+#EXTGRP:Кино и сериалы
+http://tv.ttk.mx:9027
+#EXTINF:0,Мосфильм. Золотая коллекция
+#EXTGRP:Кино и сериалы
+http://tv.ttk.mx:9169
+#EXTINF:0,Иллюзион+
+#EXTGRP:Кино и сериалы
+http://tv.ttk.mx:9028
+#EXTINF:0,Amedia Hit HD
+#EXTGRP:Кино и сериалы
+http://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD/1080p.m3u8
+#EXTINF:0,Amedia 1 HD
+#EXTGRP:Кино и сериалы
+http://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
+#EXTINF:0,Amedia 2 HD
+#EXTGRP:Кино и сериалы
+http://okkotv-live.cdnvideo.ru/channel/A2_HD/1080p.m3u8
+#EXTINF:0,.Red
+#EXTGRP:Кино и сериалы
+http://okkotv-live.cdnvideo.ru/channel/Sony_ET/480p.m3u8
+#EXTINF:0,.Sci-Fi
+#EXTGRP:Кино и сериалы
+http://okkotv-live.cdnvideo.ru/channel/Sony_SciFi/480p.m3u8
+#EXTINF:0,.Black
+#EXTGRP:Кино и сериалы
+http://okkotv-live.cdnvideo.ru/channel/Sony_Turbo/480p.m3u8
+#EXTINF:0,Fox HD
+#EXTGRP:Кино и сериалы
+http://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
+#EXTINF:0,Fox Life HD
+#EXTGRP:Кино и сериалы
+http://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/1080p.m3u8
+#EXTINF:0,Viasat Explore HD
+#EXTGRP:Познавательные
+http://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/1080p.m3u8
+#EXTINF:0,Viasat Nature HD
+#EXTGRP:Познавательные
+http://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8
+#EXTINF:0,Viasat History HD
+#EXTGRP:Познавательные
+http://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
+#EXTINF:0,Travel + Adventure HD
+#EXTGRP:Познавательные
+http://live-1.otcnet.ru/ta/tracks-v1a1/index.m3u8
+#EXTINF:0,Discovery Science
+#EXTGRP:Познавательные
+http://81.177.136.209:8004/playlist.m3u8
+#EXTINF:0,TERRA
+#EXTGRP:Познавательные
+https://okkotv-live.cdnvideo.ru/channel/NGC_HD/1080p.m3u8
+#EXTINF:0,Animal Planet
+#EXTGRP:Познавательные
+http://45.159.74.14:80/AnimalPlanet/index.m3u8
+#EXTINF:0,Моя Планета HD
+#EXTGRP:Познавательные
+http://tv.ttk.mx:9087
+#EXTINF:0,Авто 24
+#EXTGRP:Познавательные
+http://tv.ttk.mx:9031
+#EXTINF:0,Драйв
+#EXTGRP:Познавательные
+http://tv.ttk.mx:9039
+#EXTINF:0,Наука 2.0
+#EXTGRP:Познавательные
+http://tv.ttk.mx:9041
+#EXTINF:0,Поехали
+#EXTGRP:Познавательные
+http://tv.ttk.mx:9082
+#EXTINF:0,История
+#EXTGRP:Познавательные
+http://tv.ttk.mx:9048
+#EXTINF:0,Загородная жизнь
+#EXTGRP:Познавательные
+http://tv.ttk.mx:9157
+#EXTINF:0,Техно 24
+#EXTGRP:Познавательные
+http://tv.ttk.mx:9056
+#EXTINF:0,RT Док
+#EXTGRP:Познавательные
+http://tv.ttk.mx:9100
+#EXTINF:0,Карусель
+#EXTGRP:Детские
+http://tv.ttk.mx:9007
+#EXTINF:0,Tiji
+#EXTGRP:Детские
+http://live-1.otcnet.ru/TiJi_OT/index.m3u8
+#EXTINF:0,Солнце
+#EXTGRP:Детские
+http://okkotv-live.cdnvideo.ru/channel/Disney/480p.m3u8
+#EXTINF:0,Мультиландия
+#EXTGRP:Детские
+http://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
+#EXTINF:0,Gulli Girl
+#EXTGRP:Детские
+http://live-1.otcnet.ru/Gulli_OT/index.m3u8
+#EXTINF:0,СТС Kids HD
+#EXTGRP:Детские
+http://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD/1080p.m3u8
+#EXTINF:0,Жара Kids HD
+#EXTGRP:Детские
+http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
+#EXTINF:0,ТНТ Music HD
+#EXTGRP:Музыкальные
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
+#EXTINF:0,Муз ТВ
+#EXTGRP:Музыкальные
+http://okkotv-live.cdnvideo.ru/channel/MuzTV/480p.m3u8
+#EXTINF:0,Первый Музыкальный HD
+#EXTGRP:Музыкальные
+http://rtmp.one.by:1300
+#EXTINF:0,Первый Музыкальный HD
+#EXTGRP:Музыкальные
+http://rtmp.one.by:2300
+#EXTINF:0,KHL
+#EXTGRP:Спорт
+http://bl.uma.media/live/148307/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0,KHL Prime
+#EXTGRP:Спорт
+http://bl.uma.media/live/171748/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0,Матч Боец
+#EXTGRP:Спорт
+https://federaltv-migra.cdnvideo.ru/mboec/playlist.m3u8
+#EXTINF:0,M1 Global
+#EXTGRP:Спорт
+http://94.230.240.17:80/m1global/index.m3u8
+#EXTINF:0,Матч Премьер HD
+#EXTGRP:Спорт
+https://bl.uma.media/live/126866/HLS/6866944_4/1/1/playlist.m3u8
+#EXTINF:0,Матч ТВ HD
+#EXTGRP:Спорт
+http://tv.ttk.mx:9094
+#EXTINF:0,Матч ТВ
+#EXTGRP:Спорт
+https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
+#EXTINF:0,Матч! Страна
+#EXTGRP:Спорт
+http://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0,Матч! Футбол 1 
+#EXTGRP:Спорт
+http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:0,Матч! Футбол 1 HD
+#EXTGRP:Спорт
+http://cdn.spmr.tv:8080/f6x6no/video.m3u8?token=5W1ZK8D4AX
+#EXTINF:0,Матч! Футбол 2 HD
+#EXTGRP:Спорт
+http://cdn.spmr.tv:8080/t2czx3/video.m3u8?token=5W1ZK8D4AX
+#EXTINF:0,Матч! Футбол 3 HD
+#EXTGRP:Спорт
+http://cdn.spmr.tv:8080/nb2pq7/video.m3u8?token=5W1ZK8D4AX
+#EXTINF:0,Eurosport 1 HD
+#EXTGRP:Спорт
+https://em.gazoni1.com:443/live/s.214456.dc04811640e10891c1fb5651791d6295c56/eurosport1hd.ts
+#EXTINF:0,Eurosport 2 HD
+#EXTGRP:Спорт
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6556/index.m3u8
+#EXTINF:0,Eleven SPORTS 2 HD
+#EXTGRP:Спорт
+http://cdn.spmr.tv:8080/rtjs8r/video.m3u8?token=5W1ZK8D4AX
+#EXTINF:0,Sky Sport Premier League HD
+#EXTGRP:Спорт
+http://cdn.spmr.tv:8080/8wgc3x/video.m3u8?token=5W1ZK8D4AX
