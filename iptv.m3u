@@ -173,9 +173,6 @@ http://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8
 #EXTINF:0,Viasat History HD
 #EXTGRP:Познавательные
 http://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
-#EXTINF:0,Travel + Adventure HD
-#EXTGRP:Познавательные
-http://live-1.otcnet.ru/ta/tracks-v1a1/index.m3u8
 #EXTINF:0,Discovery Science
 #EXTGRP:Познавательные
 http://81.177.136.209:8004/playlist.m3u8
