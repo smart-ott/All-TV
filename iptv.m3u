@@ -275,3 +275,6 @@ http://cdn.spmr.tv:8080/rtjs8r/video.m3u8?token=5W1ZK8D4AX
 #EXTINF:0,Sky Sport Premier League HD
 #EXTGRP:Спорт
 http://cdn.spmr.tv:8080/8wgc3x/video.m3u8?token=5W1ZK8D4AX
+#EXTINF:0,Ultra HD Cinema
+#EXTGRP:Фильмы
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/playlist.m3u8
